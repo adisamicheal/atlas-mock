@@ -416,7 +416,7 @@ button {
   color: #ffffff;
 }
 
-@media (max-width: 1100px) {
+@media (max-width: 1000px) {
   .section_1 {
     height: 400px;
   }
@@ -448,7 +448,7 @@ button {
     width: 15%;
   }
   .section_2 img {
-    width: 100%;
+    width: 400px;
   }
   .section_2_content {
     display: flex;

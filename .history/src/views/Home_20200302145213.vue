@@ -448,7 +448,7 @@ button {
     width: 15%;
   }
   .section_2 img {
-    width: 100%;
+    width: 400px;
   }
   .section_2_content {
     display: flex;

@@ -92,6 +92,7 @@ h3 {
   }
   .section_2_content {
     display: block;
+    width: 350px;
     margin: auto;
   }
 }
